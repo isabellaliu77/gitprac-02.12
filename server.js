@@ -39,7 +39,7 @@ app.get("/about-us",(req,res)=>{
 app.get("/about-us",(req,res)=>{
 
     res.render("about",{
-        title: "About Us Page"
+        title: "About us Page"
     })
 
 });
